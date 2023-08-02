@@ -6,10 +6,10 @@ Brief Intro
 ![image](https://github.com/T-meji/T-meji/assets/132289124/9108163d-d172-4213-9024-d4e66189d08d)
 
 ## Achievements 🏆
-- Xander Talent - Data Engineer Training Academy (Ongoing)
-- IBM - Data Engineering Professional Certificate (Ongoing)
-- QA Ltd - Data Engineering Bootcamp Level 4
-- Google - Data Analytics Professional Certificate
+- **Xander Talent** - Data Engineer Training Academy (Ongoing)
+- **IBM** - Data Engineering Professional Certificate (Ongoing)
+- **QA Ltd** - Data Engineering Bootcamp Level 4
+- **Google** - Data Analytics Professional Certificate
 
 ## Languages and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100" /> <img src="https://www.svgrepo.com/show/341068/sql.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="100" height="100" />
@@ -19,7 +19,7 @@ Brief Intro
 
 
 ## If You Want to Reach Me ... 
-📧: Tolani.Oladimeji@xandertalent.com
+📧: *Tolani.Oladimeji@xandertalent.com*
 
 <!---
 T-meji/T-meji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -19,7 +19,7 @@ I'm an eager, self-starter who enjoys a challenge.
 
 
 ## If You Want to Reach Me ... 
-📧: *Tolani.Oladimeji@xandertalent.com*
+📧: *Tolani.Oladimeji@spartaglobal.com*
 
 <!---
 T-meji/T-meji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

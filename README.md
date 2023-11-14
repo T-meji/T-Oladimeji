@@ -6,6 +6,7 @@ I'm an eager, self-starter who enjoys a challenge.
 
 
 ## Achievements 🏆
+- **Training** - Data Engineer Training (Ongoing)
 - **Training** - Technical Engineer Training
 - **IBM** - Data Engineering Professional Certificate (Ongoing)
 - **QA Ltd** - Data Engineering Bootcamp Level 4
@@ -19,7 +20,7 @@ I'm an eager, self-starter who enjoys a challenge.
 
 
 ## If You Want to Reach Me ... 
-📧: *Tolani.Oladimeji@spartaglobal.com*
+📧: *TOladimeji@spartaglobal.com*
 
 <!---
 T-meji/T-meji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
